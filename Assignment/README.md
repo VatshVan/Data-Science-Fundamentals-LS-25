@@ -5,7 +5,7 @@ This folder contains my weekly assignments for the **Data Science Fundamentals w
 ## Structure
 
 ```
-assignment/
+Assignment/
 ├── week_1/
 ├── week_2/
 └── week_3/
