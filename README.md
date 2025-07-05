@@ -1,4 +1,4 @@
-# Data Science Fundamentals - LS-25
+# Data Science Fundamentals - LS'25
 
 This repository contains assignments and the final project from the **Data Science Fundamentals with Python (LS-25)** course. The work is organized by week-wise assignments and a capstone project.
 
